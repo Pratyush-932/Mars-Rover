@@ -4,7 +4,7 @@
 
 ## Abstract
 <p align="justify">
- The <b>Mars Rover</b> is a small vehicle built to cover mars like uneven terrains. It is made to cover ueneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to recieve and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
+ The <b>Mars Rover</b> is a small vehicle built to cover mars like uneven terrains. It is made to cover uneven surfaces with ease and further to collect and analyze data. It has a robotic arm for data collection process and contains various sensors to receive and record the data. It also has cameras, lidar and various other sensors for visual data interpretation and navigation.
 </p>
 
 <p align="center">
